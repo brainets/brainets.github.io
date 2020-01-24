@@ -1,0 +1,87 @@
+version: 2
+jobs:
+    build:
+      branches:
+        ignore:
+          - gh-pages
+      docker:
+        - image: circleci/python:3.6-jessie
+      steps:
+        - checkout
+        - run:
+            name: Clean CircleCI
+            command: |
+              rm -rf ~/.pyenv;
+              rm -rf ~/virtualenvs;
+        - restore_cache:
+            keys:
+              - pip-cache
+              - miniconda-cache
+        - run:
+            name: Install miniconda
+            command: |
+              if [ ! -d "~/miniconda3" ]; then
+                wget -q http://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda.sh;
+                chmod +x ~/miniconda.sh;
+                ~/miniconda.sh -b -p ~/miniconda3;
+                echo "export PATH=~/miniconda3/bin:$PATH" >> $BASH_ENV;
+              else
+                echo "Miniconda3 already set up.";
+              fi
+        - save_cache:
+            key: miniconda-cache
+            paths:
+              - ~/.cache/miniconda
+        - run:
+            name: Setup Python environment
+            command: |
+              conda update --yes --quiet conda;
+              conda create -n testenv --yes python=3.6 numpy scipy pip joblib matplotlib pandas xarray;
+              source activate testenv;
+              pip install -U pip;
+              pip install -U sphinx sphinx-gallery==0.4.0 sphinx_bootstrap_theme sphinxcontrib-bibtex numpydoc xlrd openpyxl;
+              echo $PATH;
+              echo $CIRCLE_BRANCH;
+              which python;
+              which pip;
+        - save_cache:
+            key: pip-cache
+            paths:
+              - ~/.cache/pip
+        - run:
+            name: Build the documentation
+            command: |
+                source activate testenv;
+                cd website
+                make html
+            no_output_timeout: 15m
+        - store_artifacts:
+            path: website/build/html/
+            destination: html
+        - add_ssh_keys:
+            fingerprints:
+                - "f9:fd:f8:ec:31:16:43:c0:1a:f7:61:53:63:49:50:ac"
+        - deploy:
+            name: github pages deployment
+            command: |
+              source activate testenv;
+              if [ "${CIRCLE_BRANCH}" == "master" ]; then
+                echo "Deploying dev docs.";
+                git config --global user.email "e.combrisson@gmail.com";
+                git config --global user.name "EtienneCmb";
+                cd website;
+                rm -rf build/doctrees build/brainets.github.io
+                make clean;
+                git clone -b gh-pages --single-branch --no-checkout --depth 1 https://github.com/brainets/brainets.github.io build/brainets.github.io
+                touch build/brainets.github.io/.nojekyll;
+                make html
+                cd build/ && \
+                cp -r html/* brainets.github.io && \
+                cd brainets.github.io && \
+                git add * && \
+                git add .nojekyll && \
+                git commit -a -m 'Make install' && \
+                git push
+              else
+                echo "No deployment (build: ${CIRCLE_BRANCH}).";
+              fi    
