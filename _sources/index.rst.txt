@@ -1,9 +1,6 @@
 BraiNets (Brain Networks and Learning)
-====
-Our research projects try to elucidate how information flows across brain regions and how Brain Networks coordinate to support cognitive functions such as Learning and Adaptive Behaviors. To do so, we exploit multimodal neuroimaging techniques (MEG, intracranial EEG and fMRI) and computational models of learning and decision-making.
-=============
-
-BraiNets is a beaux gosses team of the INT... Brain networks, connectivity etc...
+=
+BraiNets is new team of the Institut de Neurosciences de la Timone (INT, Marseille) foc
 
 
 
