@@ -1,12 +1,15 @@
-BraiNets (Brain Networks and Learning)
-=
-BraiNets is new team of the Institut de Neurosciences de la Timone (INT, Marseille) foc
+
+Brain Networks and Learning (BraiNets)
+----
+BraiNets is a team of the Institut de Neurosciences de la Timone (INT, Marseille) created in January 2020 focusing on cognitive computational neuroscience.
 
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+
 
    team
    publi
