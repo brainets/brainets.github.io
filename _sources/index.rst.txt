@@ -9,7 +9,7 @@ The main axes of research are:
  - Models, machine learning
 
 .. toctree::
-   :maxdepth: 1
+   :titlesonly:
    :caption: BraiNets
 
    members
