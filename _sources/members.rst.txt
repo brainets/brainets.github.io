@@ -1,5 +1,5 @@
-Team
-====
+Team members
+============
 
 * Andrea Brovelli (CRCN, CNRS)
 * Emmanuel Daucé (MC, Ecole Centrale Marseille)
