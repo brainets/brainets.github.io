@@ -13,5 +13,5 @@ BraiNets is a new research team of the `Institut de Neurosciences de la Timone <
    publi
    soft
 
-.. image:: https://github.com/brainets/website_source/blob/master/docs/source/brainets_logo.png
+.. image:: brainets_logo.png
    :width: 30
