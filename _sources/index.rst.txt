@@ -10,7 +10,7 @@ The main axes of research are:
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 0
    :caption: BraiNets:
    
    team
