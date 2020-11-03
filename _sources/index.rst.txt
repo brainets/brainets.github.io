@@ -10,6 +10,7 @@ The main axes of research are:
 
 .. toctree::
    :maxdepth: 1
+   :caption: BraiNets
 
    members
    projects
