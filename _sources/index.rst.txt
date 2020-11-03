@@ -15,4 +15,4 @@ The main axes of research are:
    soft
 
 .. image:: /docs/source/brainets_logo.png
-   :width: 100
+   :width: 30
