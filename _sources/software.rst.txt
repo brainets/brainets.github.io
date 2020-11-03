@@ -1,4 +1,4 @@
-Softwares
+Software
 =========
 
 https://github.com/brainets/frites
