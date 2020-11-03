@@ -16,5 +16,5 @@ The main axes of research are:
    team
    projects
    publi
-   softwares
+   soft
 
