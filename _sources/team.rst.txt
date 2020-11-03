@@ -4,6 +4,7 @@ Team
 * Andrea Brovelli (CRCN, CNRS)
 * Emmanuel Daucé (MC, Ecole Centrale Marseille)
 * Ruggero Basanisi (PhD)
+* Vinicius Lima-Cordeiro (PhD)
 * Michele Allegra (Postdoc)
 * Etienne Combrisson (Postdoc)
 * Nicole Voges (Postdoc)

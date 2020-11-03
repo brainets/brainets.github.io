@@ -4,19 +4,17 @@ Brain Networks and Learning (BraiNets)
 
 BraiNets is a novel research team of the Institut de Neurosciences de la Timone (INT, Marseille) focusing on cognitive computational neuroscience. 
 The main axes of research are
-    1) Neurocomputational bases of human learning
-    2) Brain networks analysis and functional connectivity
-    3) Models, machine learning
-
+    * Neurocomputational bases of human learning
+    * Brain networks analysis and functional connectivity
+    * Models, machine learning
 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
-
+   :caption: BraiNets:
 
    team
+   projects
    publi
    soft
 

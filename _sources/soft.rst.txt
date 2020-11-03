@@ -1,4 +1,8 @@
 Softwares
 =========
 
-List of open source softwares? Like Frites?
+https://github.com/brainets/frites
+
+https://github.com/brainets/bv2mne
+
+https://github.com/brainets/seegpy
