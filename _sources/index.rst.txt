@@ -8,10 +8,10 @@ BraiNets is a new research team of the `Institut de Neurosciences de la Timone <
 - Models, machine learning
    
 .. toctree::   
-   team
+   members
    projects
-   publi
-   soft
+   publications
+   software
 
 .. image:: brainets_logo.png
    :width: 30
