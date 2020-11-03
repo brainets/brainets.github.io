@@ -3,8 +3,8 @@ Members
 
 Principal Investigators
 ^^^^
-* Andrea Brovelli (CRCN, CNRS)
-* Emmanuel Daucé (MC, Ecole Centrale Marseille)
+* `Andrea Brovelli <http://andrea-brovelli.net/>`_ (CRCN, CNRS)
+* `Emmanuel Daucé <http://emmanuel.dauce.free.fr/>`_ (MC, Ecole Centrale Marseille)
 
 Master students (2020-21)
 ^^^^
