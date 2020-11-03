@@ -7,5 +7,13 @@ BraiNets is a research team of the `Institut de Neurosciences de la Timone <http
 - Brain networks analysis and functional connectivity
 - Models, machine learning
 
+.. toctree::
+   :maxdepth: 1
+
+   members
+   projects
+   publications
+   software
+
 .. image:: brainets_logo.png
    :width: 50
