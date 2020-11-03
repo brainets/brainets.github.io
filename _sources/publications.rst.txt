@@ -2,15 +2,19 @@ Publications
 ------------
 
 Preprints
-^^^^^^^^^
+"""""""""
+1) Bím J, De Feo V, Chicharro D, Bieler M, Hanganu-Opatz HL, Brovelli A*, Panzeri S* 
+A Non-negative Measure Of Feature-specific Information Transfer Between Neural Signals
+bioRxiv, 758128
+2) xxx
+3) 
 
 2020
-^^^^
+""""
 
-
-
-
-
+1) 
+2) 
+3) Battaglia D, Brovelli A. Functional connectivity and neuronal dynamics: insights from computational methods. The Cognitive Neurosciences, Sixth Edition (The MIT Press) by David Poeppel (Editor), George R. Mangun (Editor), Michael S. Gazzaniga (Editor)
 
 
 
