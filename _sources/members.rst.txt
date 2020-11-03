@@ -1,23 +1,23 @@
 Ze Team
--------
+----
 
 Principal Investigators
-^^^^^^^^^^^^^^^^^^^^^^^
+^^^^
 * Andrea Brovelli (CRCN, CNRS)
 * Emmanuel Daucé (MC, Ecole Centrale Marseille)
 
 Master students (2020-21)
-^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^
 * Ilann Mahou
 * Laurie Mifsud
 
 PhD students
-^^^^^^^^^^^^^
+^^^^
 * Ruggero Basanisi
 * Vinicius Lima-Cordeiro
 
 Post-doc researchers
---------------------
+^^^^
 * Michele Allegra
 * Etienne Combrisson
 * Nicole Voges
