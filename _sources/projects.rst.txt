@@ -1,31 +1,21 @@
 Projects
 =========
 
-1) Cognitive architectures of causal learning - `CausaL <https://anr.fr/Project-ANR-18-CE28-0016>`_ (ANR, PRC, 2019-2023)
+1) Cognitive architectures of causal learning - `CausaL <https://anr.fr/Project-ANR-18-CE28-0016>`_ (ANR, PRC-CE28, 2019-2023)
 
-Consortium: Andrea Brovelli (PI), Mateus Joffily (GATE, Lyon), Mehid Khamassi (ISIR, Paris), Julien Bastin (GIN, Grenoble)
-Summary of the project 
-
-
-
-xxx
-
-* Cognitive architectures of causal learning (CausaL)
-
-ANR PRC
-
+Andrea Brovelli (PI), Mateus Joffily (GATE, Lyon), Mehid Khamassi (ISIR, Paris), Julien Bastin (GIN, Grenoble)
 CE28 – Cognition, éducation, formation tout au long de la vie
 
-Start date and duration: December 2018 for 54 Months
+2) xxx
 
-* Temporal brain networks and information dynamics (InfoDyn)
+3) 
 
-ILCB post-doc fellowship
 
-Start date and duration: April 2019 for 24 Months
+4) Modelling information dynamics - InfoDyn (2 yrs post-doc fellowship from `ILCB <https://www.ilcb.fr/>`_, 2019-21)
+Andrea Brovelli (co-PI), Demian Battaglia (co-PI; INS, Marseille; USIAS, Strasbourg)
 
-* The influence of directional interactions in brain networks in predicting cognitive deficits post-stroke (Brainsynch-Hit)
+5) 
 
-FLAG-ERA HBP Partnering project
+6) The influence of directional interactions in brain networks in predicting cognitive deficits post-stroke - Brainsynch-Hit (FLAG-ERA HBP Partnering project, 2018-2020)
+Andrea Brovelli (co-PI), Marizio Corbetta (PI; Univ Padova, Italy)
 
-Start date and duration: February 2018 for 36 Months
