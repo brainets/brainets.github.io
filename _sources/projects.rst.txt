@@ -1,26 +1,32 @@
 Projects
 =========
 
-Cognitive architectures of causal learning - `CausaL <https://anr.fr/Project-ANR-18-CE28-0016>`_ (ANR, PRC-CE28, 2019-2023)
+Cognitive architectures of causal learning - `CausaL <https://anr.fr/Project-ANR-18-CE28-0016>`_ 
 """"
-
+Funding: ANR, PRC-CE28, 2019-2023
 Consortium: Andrea Brovelli (PI), Mateus Joffily (GATE, Lyon), Mehid Khamassi (ISIR, Paris), Julien Bastin (GIN, Grenoble)
 
-CE28 – Cognition, éducation, formation tout au long de la vie
+The aim of this project is to study the neural and computational bases of human goal-directed causal learning.
 
-Model-free and model-based inference and validation workflows for causal brain network discovery - NetScovery (HBP, 2020-2023)
+Model-free and model-based inference and validation workflows for causal brain network discovery - NetScovery
 """"
+Funding: Human Brain Project HBP, 2020-2023
 
 Consortium: Andrea Brovelli (PI), Jean Daunizeau (ICM, Paris), Gustavo Deco (UPF, Barcelona), Stefano Panzeri (IIT, Italy), Petra Ritter (Charité, Berlin), Olivier David (GIN, Grenoble)
+
 
 ANR Manu + Lolo
 """"
 
-Modelling information dynamics - InfoDyn (2 yrs post-doc fellowship from `ILCB <https://www.ilcb.fr/>`_, 2019-21)
+Modelling information dynamics - InfoDyn
+"""""
+Funding: 2 yrs post-doc fellowship from `ILCB <https://www.ilcb.fr/>`_, 2019-21
 Consortium: Andrea Brovelli (co-PI), Demian Battaglia (co-PI; INS, Marseille; USIAS, Strasbourg)
+
+
+The influence of directional interactions in brain networks in predicting cognitive deficits post-stroke - Brainsynch-Hit
 """""
 
-The influence of directional interactions in brain networks in predicting cognitive deficits post-stroke - Brainsynch-Hit (FLAG-ERA HBP Partnering project, 2018-2020)
-"""""
+Funding: FLAG-ERA HBP Partnering project, 2018-2020
 Consortium: Andrea Brovelli (co-PI), Marizio Corbetta (PI; Univ Padova, Italy)
 
