@@ -1,6 +1,6 @@
 
 Brain Networks and Learning (BraiNets)
-======================================
+-----
 
 BraiNets is a research team of the `Institut de Neurosciences de la Timone <http://www.int.univ-amu.fr/>`_ (Marseille, France) created in January 2020 focusing on cognitive computational neuroscience. 
 
