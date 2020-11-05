@@ -1,8 +1,7 @@
 Projects
 =========
 
-Cognitive architectures of causal learning - CausaL (ANR, PRC, 2019-2023)
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+1) Cognitive architectures of causal learning - CausaL (ANR, PRC, 2019-2023)
 Consortium: Andrea Brovelli (PI), Mateus Joffily (GATE, Lyon), Mehid Khamassi (ISIR, Paris), Julien Bastin (GIN, Grenoble)
 Summary of the project https://anr.fr/Project-ANR-18-CE28-0016
 
