@@ -8,7 +8,7 @@ Consortium: Andrea Brovelli (PI), Mateus Joffily (GATE, Lyon), Mehid Khamassi (I
 
 The aim of this project is to study the neural and computational bases of human goal-directed causal learning.
 
-Model-free and model-based inference and validation workflows for causal brain network discovery - NetScovery
+Model-free and model-based inference and validation workflows for causal brain network discovery - `NetScovery <https://www.humanbrainproject.eu/en/follow-hbp/news/the-human-brain-project-hbp-calls-for-expression-of-interest-ceoi-6-projects-selected-for-ec-funding-for-the-third-specific-grant-agreement-sga3/>`_
 """"
 Funding: Human Brain Project HBP, 2020-2023
 
