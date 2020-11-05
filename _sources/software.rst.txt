@@ -4,22 +4,27 @@ Software
 FRITES
 """"
 Framework for Information Theoretical analysis of Electrophysiological data and Statistics 
+
 https://github.com/brainets/frites
 
 BV2MN
 """"
 Creates cortical meshes generated using BrainVISA (MarsAtlas) for importation into MNE-python
+
 https://github.com/brainets/bv2mne
 
 SEEGPY
 """"
 Python functions for localizing and analysing sEEG data
+
 https://github.com/brainets/seegpy
 
 PIPELINES-ILCB
 """"
 Matlab code for importing anatomical (BrainVISA and FreeSurfer) and functional (MEG) data into FieldTrip
+
 https://github.com/brovelli/pipelines-ilcb
+
 
 
 
