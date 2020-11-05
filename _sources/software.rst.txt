@@ -11,12 +11,12 @@ BV2MN
 Creates cortical meshes generated using BrainVISA (MarsAtlas) for importation into MNE-python
 https://github.com/brainets/bv2mne
 
-seegpy
+SEEGPY
 """"
 Python functions for localizing and analysing sEEG data
 https://github.com/brainets/seegpy
 
-Pipelines-ILCB
+PIPELINES-ILCB
 """"
 Matlab code for importing anatomical (BrainVISA and FreeSurfer) and functional (MEG) data into FieldTrip
 https://github.com/brovelli/pipelines-ilcb
