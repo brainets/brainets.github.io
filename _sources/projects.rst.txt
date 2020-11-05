@@ -14,10 +14,6 @@ Funding: Human Brain Project HBP, 2020-2023
 
 Consortium: Andrea Brovelli (PI), Jean Daunizeau (ICM, Paris), Gustavo Deco (UPF, Barcelona), Stefano Panzeri (IIT, Italy), Petra Ritter (Charité, Berlin), Olivier David (GIN, Grenoble)
 
-
-ANR Manu + Lolo
-""""
-
 Modelling information dynamics - InfoDyn
 """""
 Funding: 2 yrs post-doc fellowship from `ILCB <https://www.ilcb.fr/>`_, 2019-21
@@ -29,4 +25,12 @@ The influence of directional interactions in brain networks in predicting cognit
 
 Funding: FLAG-ERA HBP Partnering project, 2018-2020
 Consortium: Andrea Brovelli (co-PI), Marizio Corbetta (PI; Univ Padova, Italy)
+
+Manu's projects ANR with Lolo
+""""
+
+????
+""""
+
+
 
