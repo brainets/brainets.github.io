@@ -24,7 +24,7 @@ Funding: 2 yrs post-doc fellowship from `ILCB <https://www.ilcb.fr/>`_, 2019-21
 Consortium: Andrea Brovelli (co-PI), Demian Battaglia (co-PI; INS, Marseille; USIAS, Strasbourg)
 
 
-The influence of directional interactions in brain networks in predicting cognitive deficits post-stroke - Brainsynch-Hit
+The influence of directional interactions in brain networks in predicting cognitive deficits post-stroke - `Brainsynch-Hit <https://anr.fr/Project-ANR-17-HBPR-0001>`_
 """""
 
 Funding: FLAG-ERA HBP Partnering project, 2018-2020
