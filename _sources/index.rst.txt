@@ -7,9 +7,9 @@ BraiNets is a research team of the `Institut de Neurosciences de la Timone <http
 The main axes of research are:
 
 - Neurocomputational bases of human learning
-- Brain networks analysis and functional connectivity
+- Brain networks and functional connectivity
 - Human neurophysiology (MEG, SEEG) and neuroimaging (fMRI)
-- Neural Networks models
+- Neural networks models
 - Machine learning
 
 .. toctree::
