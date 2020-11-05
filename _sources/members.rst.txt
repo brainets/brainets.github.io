@@ -2,7 +2,7 @@ Members
 ----
 
 Principal Investigators
-^^^^
+"""""
 * `Andrea Brovelli <http://andrea-brovelli.net/>`_ (CRCN, CNRS)
 * `Emmanuel Daucé <http://emmanuel.dauce.free.fr/>`_ (MC, Ecole Centrale Marseille)
 
