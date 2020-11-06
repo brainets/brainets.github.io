@@ -2,25 +2,27 @@ Members
 ----
 
 Principal Investigators
-"""""
+^^^^
 * `Andrea Brovelli <http://andrea-brovelli.net/>`_ (CRCN, CNRS)
 * `Emmanuel Daucé <http://emmanuel.dauce.free.fr/>`_ (MC, Ecole Centrale Marseille)
 
-Master students (2020-21)
+Post-doc researchers
 ^^^^
-* Ilann Mahou
-* Laurie Mifsud
+* `Michele Allegra <https://micheleallegra.github.io/>`_
+* `Etienne Combrisson <https://etiennecmb.github.io/>`_
+* Nicole Voges
 
 PhD students
 ^^^^
 * Ruggero Basanisi
 * Vinicius Lima-Cordeiro
 
-Post-doc researchers
+Master students
 ^^^^
-* Michele Allegra
-* Etienne Combrisson
-* Nicole Voges
+* Ilann Mahou
+* Laurie Mifsud
+
+
 
 
 
