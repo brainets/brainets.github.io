@@ -11,15 +11,15 @@ Preprints
 
 Peer-reviewed Journals
 ^^^^^
-1) Basanisi R, Brovelli A, Cartoni E, Baldassarre G (2020). `A generative spiking neural-network model of goal-directed behaviour and one-step planning. <https://hal.archives-ouvertes.fr/hal-02565880/>`_ PLoS Computational Biology. 
-2) Combrisson E, Nest T, Brovelli A, Ince R, Soto J, Guillot A, Jerbi K (2020). `Tensorpac: an open-source Python toolbox for tensor-based phase-amplitude coupling measurement in electrophysiological brain signals. <https://doi.org/10.1371/journal.pcbi.1008302>`_ PLoS Computational Biology.
-3) Daucé E, Albiges P, Perrinet LU (2020). `A dual foveal-peripheral visual processing model implements efficient saccade selection. <https://jov.arvojournals.org/article.aspx?articleid=2770680>`_ Journal of Vision 20(8):22 
+- Basanisi R, Brovelli A, Cartoni E, Baldassarre G (2020). `A generative spiking neural-network model of goal-directed behaviour and one-step planning. <https://hal.archives-ouvertes.fr/hal-02565880/>`_ PLoS Computational Biology. 
+- Combrisson E, Nest T, Brovelli A, Ince R, Soto J, Guillot A, Jerbi K (2020). `Tensorpac: an open-source Python toolbox for tensor-based phase-amplitude coupling measurement in electrophysiological brain signals. <https://doi.org/10.1371/journal.pcbi.1008302>`_ PLoS Computational Biology.
+- Daucé E, Albiges P, Perrinet LU (2020). `A dual foveal-peripheral visual processing model implements efficient saccade selection. <https://jov.arvojournals.org/article.aspx?articleid=2770680>`_ Journal of Vision 20(8):22 
 
 Book Chapters and Reviews
 ^^^^
-4) Battaglia D, Brovelli A (2020). `Functional connectivity and neuronal dynamics: insights from computational methods. <https://hal.archives-ouvertes.fr/hal-02304918/document>`_ The Cognitive Neurosciences, Sixth Edition (The MIT Press) by David Poeppel (Editor), George R. Mangun (Editor), Michael S. Gazzaniga (Editor) 
+- Battaglia D, Brovelli A (2020). `Functional connectivity and neuronal dynamics: insights from computational methods. <https://hal.archives-ouvertes.fr/hal-02304918/document>`_ The Cognitive Neurosciences, Sixth Edition (The MIT Press) by David Poeppel (Editor), George R. Mangun (Editor), Michael S. Gazzaniga (Editor) 
 
 Conference Proceedings
 ^^^^^
-5) Daucé E (2020). `End-Effect Exploration Drive for Effective Motor Learning. <https://arxiv.org/abs/2006.15960>`_ Proc. of 1st International Workshop on Active Inference (IWAI 2020). ArXiv 2006.15960.
-6) Daucé E, Perrinet LU (2020). Visual search as active inference. Proc. of 1st International Workshop on Active Inference (IWAI 2020). 
+- Daucé E (2020). `End-Effect Exploration Drive for Effective Motor Learning. <https://arxiv.org/abs/2006.15960>`_ Proc. of 1st International Workshop on Active Inference (IWAI 2020). ArXiv 2006.15960.
+- Daucé E, Perrinet LU (2020). Visual search as active inference. Proc. of 1st International Workshop on Active Inference (IWAI 2020). 
