@@ -6,7 +6,7 @@ Projects
 
 **Cognitive architectures of causal learning**
 
-Funding: ANR, PRC-CE28, 2019-2023
+Funding: Agence Nationale de la Recherche ANR, 2019-2023
 
 Consortium: Andrea Brovelli (PI), Mateus Joffily (GATE, Lyon), Mehid Khamassi (ISIR, Paris), Julien Bastin (GIN, Grenoble)
 
@@ -14,15 +14,22 @@ The aim of this project is to study the neural and computational bases of human 
 
 `NetScovery <https://www.humanbrainproject.eu/en/follow-hbp/news/the-human-brain-project-hbp-calls-for-expression-of-interest-ceoi-6-projects-selected-for-ec-funding-for-the-third-specific-grant-agreement-sga3/>`_
 ^^^^
-Model-free and model-based inference and validation workflows for causal brain network discovery - 
+
+**Model-free and model-based inference and validation workflows for causal brain network discovery**
+
 Funding: Human Brain Project HBP, 2020-2023
 
 Consortium: Andrea Brovelli (PI), Jean Daunizeau (ICM, Paris), Gustavo Deco (UPF, Barcelona), Stefano Panzeri (IIT, Italy), Petra Ritter (Charité, Berlin), Olivier David (GIN, Grenoble)
 
+The project aims at combining data-driven and model-based approaches for the inference of brain causal connectivity and the validation of whole-brain models. This projet is part of WP1 of SGA3 of the HBP.
+
 InfoDyn
 ^^^^
-Modelling information dynamics 
+
+**Modelling information dynamics**
+
 Funding: 2 yrs post-doc fellowship from `ILCB <https://www.ilcb.fr/>`_, 2019-21
+
 Consortium: Andrea Brovelli (co-PI), Demian Battaglia (co-PI; INS, Marseille; USIAS, Strasbourg)
 
 
