@@ -1,6 +1,8 @@
 Software
 =========
 
+`BraiNets on Github <https://github.com/brainets>`_
+
 FRITES
 """"
 Framework for Information Theoretical analysis of Electrophysiological data and Statistics 
