@@ -6,7 +6,9 @@ Projects
 
 **Cognitive architectures of causal learning**
 Funding: Agence Nationale de la Recherche ANR, 2019-2023
+
 Consortium: Andrea Brovelli (PI), Mateus Joffily (GATE, Lyon), Mehdi Khamassi (ISIR, Paris), Julien Bastin (GIN, Grenoble)
+
 *The aim of this project is to study the neural and computational bases of human goal-directed causal learning by combining human neurophysiology (MEG and intracranial SEEG) and neuroimaging (fMRI) techniques with computational models of learning (Reinforcement Learning and Active Inference)*
 
 `NetScovery <https://www.humanbrainproject.eu/en/follow-hbp/news/the-human-brain-project-hbp-calls-for-expression-of-interest-ceoi-6-projects-selected-for-ec-funding-for-the-third-specific-grant-agreement-sga3/>`_
