@@ -15,7 +15,7 @@ Peer-reviewed Journals
 2) Combrisson E, Nest T, Brovelli A, Ince R, Soto J, Guillot A, Jerbi K (2020). `Tensorpac: an open-source Python toolbox for tensor-based phase-amplitude coupling measurement in electrophysiological brain signals. <https://doi.org/10.1371/journal.pcbi.1008302>`_ PLoS Computational Biology.
 3) Daucé E, Albiges P, Perrinet LU (2020). `A dual foveal-peripheral visual processing model implements efficient saccade selection. <https://jov.arvojournals.org/article.aspx?articleid=2770680>`_ Journal of Vision 20(8):22 
 
-Book chapters and Reviews
+Book Chapters and Reviews
 ^^^^
 4) Battaglia D, Brovelli A (2020). `Functional connectivity and neuronal dynamics: insights from computational methods. <https://hal.archives-ouvertes.fr/hal-02304918/document>`_ The Cognitive Neurosciences, Sixth Edition (The MIT Press) by David Poeppel (Editor), George R. Mangun (Editor), Michael S. Gazzaniga (Editor) 
 
