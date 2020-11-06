@@ -1,36 +1,36 @@
 Projects
-=========
+-----
 
 Cognitive architectures of causal learning - `CausaL <https://anr.fr/Project-ANR-18-CE28-0016>`_ 
-""""
+^^^^
 Funding: ANR, PRC-CE28, 2019-2023
 Consortium: Andrea Brovelli (PI), Mateus Joffily (GATE, Lyon), Mehid Khamassi (ISIR, Paris), Julien Bastin (GIN, Grenoble)
 
 The aim of this project is to study the neural and computational bases of human goal-directed causal learning.
 
 Model-free and model-based inference and validation workflows for causal brain network discovery - `NetScovery <https://www.humanbrainproject.eu/en/follow-hbp/news/the-human-brain-project-hbp-calls-for-expression-of-interest-ceoi-6-projects-selected-for-ec-funding-for-the-third-specific-grant-agreement-sga3/>`_
-""""
+^^^^
 Funding: Human Brain Project HBP, 2020-2023
 
 Consortium: Andrea Brovelli (PI), Jean Daunizeau (ICM, Paris), Gustavo Deco (UPF, Barcelona), Stefano Panzeri (IIT, Italy), Petra Ritter (Charité, Berlin), Olivier David (GIN, Grenoble)
 
 Modelling information dynamics - InfoDyn
-"""""
+^^^^
 Funding: 2 yrs post-doc fellowship from `ILCB <https://www.ilcb.fr/>`_, 2019-21
 Consortium: Andrea Brovelli (co-PI), Demian Battaglia (co-PI; INS, Marseille; USIAS, Strasbourg)
 
 
 The influence of directional interactions in brain networks in predicting cognitive deficits post-stroke - `Brainsynch-Hit <https://anr.fr/Project-ANR-17-HBPR-0001>`_
-"""""
+^^^^
 
 Funding: FLAG-ERA HBP Partnering project, 2018-2020
 Consortium: Andrea Brovelli (co-PI), Marizio Corbetta (PI; Univ Padova, Italy)
 
 Manu's projects ANR with Lolo
-""""
+^^^^
 
 ????
-""""
+^^^^
 
 
 
