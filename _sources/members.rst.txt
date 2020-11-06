@@ -1,6 +1,8 @@
 Members
 ----
 
+01/01/2021
+
 Principal Investigators
 ^^^^
 * `Andrea Brovelli <http://andrea-brovelli.net/>`_ (CRCN, CNRS)
@@ -21,10 +23,3 @@ Master students
 ^^^^
 * Ilann Mahou
 * Laurie Mifsud
-
-@Jan 2021
-
-
-
-
-
