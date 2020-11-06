@@ -4,7 +4,7 @@ Publications
 Preprints
 """""""""
 
-1) Bím J, De Feo V, Chicharro D, Bieler M, Hanganu-Opatz HL, Brovelli A*, Panzeri S* (biorxiv). `A Non-negative Measure Of Feature-specific Information Transfer Between Neural Signals <https://www.biorxiv.org/content/10.1101/758128v2>`_
+- Bím J, De Feo V, Chicharro D, Bieler M, Hanganu-Opatz HL, Brovelli A*, Panzeri S* (biorxiv). `A Non-negative Measure Of Feature-specific Information Transfer Between Neural Signals <https://www.biorxiv.org/content/10.1101/758128v2>`_
 
 2020
 """"
