@@ -14,7 +14,7 @@ The main axes of research are:
 
 .. toctree::
    :titlesonly:
-   :caption: BraiNets
+   :caption: Content
 
    members
    projects
