@@ -27,6 +27,7 @@ Consortium: Andrea Brovelli (PI), Etienne Combrisson (post-doc INT), Jean Dauniz
 InfoDyn
 ^^^^
 
+
 **Modelling information dynamics**
 
 Funding: 2 yrs post-doc fellowship from `ILCB <https://www.ilcb.fr/>`_, May 2019 - April 2021
