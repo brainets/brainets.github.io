@@ -48,7 +48,7 @@ Consortium: Andrea Brovelli (co-PI), Marizio Corbetta (PI; Univ Padova, Italy)
 
 *The project aims to develop and test methods for the analysis of directional interactions among brain regions in resting state and task-evoked fMRI data in healthy controls and stroke damaged individuals, and to develop a computational model of an injured brain that replicates both the empirically measured patterns of connectivity abnormalities and behavioral deficits.*
 
-`AgileNeuroBot`_
+AgileNeuroBot
 ^^^^
 
 **Robots aériens agiles bio-mimetiques pour le vol en conditions réelles**
