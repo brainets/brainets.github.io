@@ -6,7 +6,7 @@ Projects
 
 **Cognitive architectures of causal learning**
 
-Funding: Agence Nationale de la Recherche ANR, 2019-2023
+Funding: Agence Nationale de la Recherche ANR, Jan 2019 - Jun 2023
 
 Consortium: Andrea Brovelli (PI), Mateus Joffily (GATE, Lyon), Mehdi Khamassi (ISIR, Paris), Julien Bastin (GIN, Grenoble)
 
@@ -17,7 +17,7 @@ Consortium: Andrea Brovelli (PI), Mateus Joffily (GATE, Lyon), Mehdi Khamassi (I
 
 **Model-free and model-based inference and validation workflows for causal brain network discovery**
 
-Funding: Human Brain Project HBP/EBRAINS, 2020-2023
+Funding: Human Brain Project HBP/EBRAINS, Oct 2020 - March 2023
 
 Consortium: Andrea Brovelli (PI), Etienne Combrisson (post-doc INT), Jean Daunizeau (ICM, Paris), Gustavo Deco (UPF, Barcelona), Stefano Panzeri (IIT, Italy), Petra Ritter (Charité, Berlin), Olivier David (GIN, Grenoble)
 
@@ -28,9 +28,11 @@ InfoDyn
 
 **Modelling information dynamics**
 
-Funding: 2 yrs post-doc fellowship from `ILCB <https://www.ilcb.fr/>`_, 2019-21
+Funding: 2 yrs post-doc fellowship from `ILCB <https://www.ilcb.fr/>`_, May 2019 - May 21
 
 Consortium: Andrea Brovelli (co-PI), Demian Battaglia (co-PI; INS, Marseille; USIAS, Strasbourg)
+
+The project aims at developping an multi-area interacting model based on the ring model. The goal is to study neural computations such as stimulus encoding, information transfer and information modification by means of simulation studies. This projet is part of `Institut de Convergence ILCB <https://www.ilcb.fr/>`_.
 
 
  `Brainsynch-Hit <https://anr.fr/Project-ANR-17-HBPR-0001>`_
@@ -38,7 +40,7 @@ Consortium: Andrea Brovelli (co-PI), Demian Battaglia (co-PI; INS, Marseille; US
 
 **The influence of directional interactions in brain networks in predicting cognitive deficits post-stroke**
 
-Funding: FLAG-ERA HBP Partnering project, 2018-2020
+Funding: FLAG-ERA HBP Partnering project, Jan 2018 - dec 2020
 
 Consortium: Andrea Brovelli (co-PI), Michele Allegra (post-doc), Marizio Corbetta (PI; Univ Padova, Italy)
 
