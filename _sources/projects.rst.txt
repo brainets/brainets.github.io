@@ -48,11 +48,16 @@ Consortium: Andrea Brovelli (co-PI), Marizio Corbetta (PI; Univ Padova, Italy)
 
 *The project aims to develop and test methods for the analysis of directional interactions among brain regions in resting state and task-evoked fMRI data in healthy controls and stroke damaged individuals, and to develop a computational model of an injured brain that replicates both the empirically measured patterns of connectivity abnormalities and behavioral deficits.*
 
-Manu's projects ANR with Lolo
+`AgileNeuroBot`_
 ^^^^
 
-????
-^^^^
+**Robots aériens agiles bio-mimetiques pour le vol en conditions réelles**
+
+Funding : ANR, mar 2021 - mar 2024
+
+Consortium: Laurent Perrinet (PI), Ryad Benosman (IDV, Paris), Stéphane Viollet (ISM, Marseille), Emmanuel Daucé
+
+*In this project, we propose a solution that will integrate bio-inspired rapid visual detectionand stabilization dynamics into an end-to-end event based neuromorphic system. The key to this approach will be the optimizationof delays through predictive processing. This will allow these robots to fly independently, without any user intervention.*
 
 
 
