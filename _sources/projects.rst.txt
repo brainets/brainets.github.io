@@ -34,7 +34,7 @@ Funding: 2 yrs post-doc fellowship from `ILCB <https://www.ilcb.fr/>`_, May 2019
 
 Consortium: Andrea Brovelli (co-PI), Demian Battaglia (co-PI; INS, Marseille; USIAS, Strasbourg)
 
-*The project aims at developping an multi-area interacting model based on the ring model. The goal is to study neural computations such as stimulus encoding, information transfer and information modification by means of simulation studies. This projet is part of Institut de Convergence `ILCB <https://www.ilcb.fr/>`_.*
+*The project aims at developping an multi-area interacting model based on the ring model. The goal is to study neural computations such as stimulus encoding, information transfer and information modification by means of simulation studies. This projet is part of Institut de Convergence `ILCB <https://www.ilcb.fr/>`_*
 
  `Brainsynch-Hit <https://anr.fr/Project-ANR-17-HBPR-0001>`_
 ^^^^
