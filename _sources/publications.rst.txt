@@ -4,8 +4,8 @@ Publications
 Preprints
 """""""""
 
-- Bím J, De Feo V, Chicharro D, Bieler M, Hanganu-Opatz HL, Brovelli A*, Panzeri S*. `A Non-negative Measure Of Feature-specific Information Transfer Between Neural Signals <https://www.biorxiv.org/content/10.1101/758128v2>`_ https://www.biorxiv.org/content/10.1101/758128v2
-- Allegra M, Favaretto C, Metcalf N, Corbetta M* , Brovelli A*. Stroke-related alterations in inter-areal communication revealed via Granger causality analysis.
+- Bím J, De Feo V, Chicharro D, Bieler M, Hanganu-Opatz HL, Brovelli A*, Panzeri S* (biorxiv). `A Non-negative Measure Of Feature-specific Information Transfer Between Neural Signals <https://www.biorxiv.org/content/10.1101/758128v2>`_ 
+- Allegra M, Favaretto C, Metcalf N, Corbetta M* , Brovelli A* (under submission). Stroke-related alterations in inter-areal communication revealed via Granger causality analysis.
 
 2020
 """"
