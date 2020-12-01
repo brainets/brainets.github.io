@@ -19,7 +19,7 @@ Consortium: Andrea Brovelli (PI), Mateus Joffily (GATE, Lyon), Mehdi Khamassi (I
 
 Funding: Human Brain Project HBP/EBRAINS, Oct 2020 - March 2023
 
-Consortium: Andrea Brovelli (PI), Etienne Combrisson (post-doc INT), Jean Daunizeau (ICM, Paris), Gustavo Deco (UPF, Barcelona), Stefano Panzeri (IIT, Italy), Petra Ritter (Charité, Berlin), Olivier David (GIN, Grenoble)
+Consortium: Andrea Brovelli (PI), Jean Daunizeau (ICM, Paris), Gustavo Deco (UPF, Barcelona), Stefano Panzeri (IIT, Italy), Petra Ritter (Charité, Berlin), Olivier David (GIN, Grenoble)
 
 *The project aims at combining data-driven and model-based approaches for the inference of brain causal connectivity and the validation of whole-brain models. The goal is to integrate workflows and methods into EBRAINS. This projet is part of WP1 of SGA3 of the HBP.*
 
