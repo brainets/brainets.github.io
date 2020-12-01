@@ -26,7 +26,7 @@ Consortium: Andrea Brovelli (PI), Jean Daunizeau (ICM, Paris), Gustavo Deco (UPF
 AgileNeuroBot
 ^^^^
 
-**Robots aériens agiles bio-mimetiques pour le vol en conditions réelles**
+**Bio-mimetic Agile aerial roBots flying in real-life conditions**
 
 Funding : Agence Nationale de la Recherche ANR - PRC, March 2021 - Sept 2024
 
