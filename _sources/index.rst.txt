@@ -20,6 +20,3 @@ The main axes of research are:
    projects
    publications
    software
-
-.. image:: brainets_logo.png
-   :width: 100
