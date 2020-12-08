@@ -2,15 +2,14 @@
 Brain Networks and Learning (BraiNets)
 -----
 
-BraiNets is a research team of the `Institut de Neurosciences de la Timone <http://www.int.univ-amu.fr/>`_ (Marseille, France) created in January 2020 focusing on cognitive computational neuroscience. 
+BraiNets is a research team of the `Institut de Neurosciences de la Timone <http://www.int.univ-amu.fr/>`_ (Marseille, France) created in January 2020 focusing on cognitive computational neuroscience. A first series of  projects tries to elucidate the emergence of cognitive brain networks supporting learning and adaptive behaviors, through the combination of multimodal neuroimaging techniques (MEG, intracranial EEG and fMRI) and computational models of learning and decision-making.
 
 The main axes of research are:
 
 - Neural and computational bases of learning and adaptive behaviors
-- Brain networks and functional connectivity
 - Information dynamics and emergence of cognitive brain networks
-- Human neurophysiology (MEG, SEEG) and neuroimaging (fMRI)
-- Neural networks models
+- Model free and model based brain networks analysis
+- Neural networks models bio mimetic robotics
 - Bayesian modelling
 - Machine learning
 
