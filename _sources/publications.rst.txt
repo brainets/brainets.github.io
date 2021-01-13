@@ -5,7 +5,7 @@ Preprints
 """""""""
 
 - Bím J, De Feo V, Chicharro D, Bieler M, Hanganu-Opatz HL, Brovelli A*, Panzeri S*. `A Non-negative Measure Of Feature-specific Information Transfer Between Neural Signals <https://www.biorxiv.org/content/10.1101/758128v2>`_ 
-- Allegra M, Favaretto C, Metcalf N, Corbetta M* , Brovelli A*. `Stroke-related alterations in inter-areal communication revealed via Granger causality analysis <https://www.biorxiv.org/content/10.1101/2021.01.04.425190v1>`_.
+- Allegra M, Favaretto C, Metcalf N, Corbetta M* , Brovelli A*. `Stroke-related alterations in inter-areal communication revealed via Granger causality analysis <https://www.biorxiv.org/content/10.1101/2021.01.04.425190v1>`_. https://www.biorxiv.org/content/10.1101/2021.01.04.425190v1
 
 2020
 """"
@@ -18,7 +18,7 @@ Peer-reviewed Journals
 
 Book Chapters and Reviews
 ^^^^
-- Battaglia D, Brovelli A (2020). `Functional connectivity and neuronal dynamics: insights from computational methods. <https://hal.archives-ouvertes.fr/hal-02304918/document>`_ `The Cognitive Neurosciences <http://cognet.mit.edu/erefs/cognitive-neurosciences-6th-edition>`_, Sixth Edition (The MIT Press) by David Poeppel (Editor), George R. Mangun (Editor), Michael S. Gazzaniga (Editor) 
+- Battaglia D, Brovelli A (2020). `Functional connectivity and neuronal dynamics: insights from computational methods. <https://hal.archives-ouvertes.fr/hal-02304918/document>`_ In `The Cognitive Neurosciences <http://cognet.mit.edu/erefs/cognitive-neurosciences-6th-edition>`_, Sixth Edition (The MIT Press) by David Poeppel (Editor), George R. Mangun (Editor), Michael S. Gazzaniga (Editor) 
 
 Conference Proceedings
 ^^^^^
